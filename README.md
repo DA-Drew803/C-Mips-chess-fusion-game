@@ -16,29 +16,17 @@ Roll
 
 Required piece
 
-1
+1=Pawn
 
-Pawn
+2=Knight
 
-2
+3=Bishop
 
-Knight
+4=Rook
 
-3
+5=Queen
 
-Bishop
-
-4
-
-Rook
-
-5
-
-Queen
-
-6
-
-King
+6=King
 
 The player must then enter a move using chessboard coordinates. For example:
 
