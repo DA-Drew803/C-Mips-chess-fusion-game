@@ -135,4 +135,4 @@ What I Learned
 
 This project provided practice with translating the same game design between a high-level language and assembly. The C version emphasizes data structures and modular movement logic, while the MIPS version makes memory layout, register use, stack management, branching, syscalls, and coordinate conversion explicit.
 
-License
+
